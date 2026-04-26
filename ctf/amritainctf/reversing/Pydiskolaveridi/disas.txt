@@ -1,0 +1,292 @@
+5           0 BUILD_LIST               0
+              2 STORE_FAST               1 (aharray)
+
+  6           4 LOAD_CONST               1 (0)
+              6 STORE_FAST               2 (x)
+
+  7           8 LOAD_CONST               1 (0)
+             10 BUILD_LIST               1
+             12 LOAD_CONST               2 (34)
+             14 BINARY_MULTIPLY
+             16 STORE_FAST               3 (val)
+
+  8          18 LOAD_CONST               3 (101)
+             20 LOAD_FAST                3 (val)
+             22 LOAD_CONST               1 (0)
+             24 STORE_SUBSCR
+
+  9          26 LOAD_CONST               4 (105)
+             28 LOAD_FAST                3 (val)
+             30 LOAD_CONST               5 (1)
+             32 STORE_SUBSCR
+
+ 10          34 LOAD_CONST               6 (100)
+             36 LOAD_FAST                3 (val)
+             38 LOAD_CONST               7 (2)
+             40 STORE_SUBSCR
+
+ 11          42 LOAD_CONST               8 (96)
+             44 LOAD_FAST                3 (val)
+             46 LOAD_CONST               9 (3)
+             48 STORE_SUBSCR
+
+ 12          50 LOAD_CONST              10 (118)
+             52 LOAD_FAST                3 (val)
+             54 LOAD_CONST              11 (4)
+             56 STORE_SUBSCR
+
+ 13          58 LOAD_CONST              12 (125)
+             60 LOAD_FAST                3 (val)
+             62 LOAD_CONST              13 (5)
+             64 STORE_SUBSCR
+
+ 14          66 LOAD_CONST              14 (116)
+             68 LOAD_FAST                3 (val)
+             70 LOAD_CONST              15 (6)
+             72 STORE_SUBSCR
+
+ 15          74 LOAD_CONST               3 (101)
+             76 LOAD_FAST                3 (val)
+             78 LOAD_CONST              16 (7)
+             80 STORE_SUBSCR
+
+ 16          82 LOAD_CONST              17 (123)
+             84 LOAD_FAST                3 (val)
+             86 LOAD_CONST              18 (8)
+             88 STORE_SUBSCR
+
+ 17          90 LOAD_CONST              19 (37)
+             92 LOAD_FAST                3 (val)
+             94 LOAD_CONST              20 (9)
+             96 STORE_SUBSCR
+
+ 18          98 LOAD_CONST              21 (121)
+            100 LOAD_FAST                3 (val)
+            102 LOAD_CONST              22 (10)
+            104 STORE_SUBSCR
+
+ 19         106 LOAD_CONST              23 (120)
+            108 LOAD_FAST                3 (val)
+            110 LOAD_CONST              24 (11)
+            112 STORE_SUBSCR
+
+ 20         114 LOAD_CONST              23 (120)
+            116 LOAD_FAST                3 (val)
+            118 LOAD_CONST              25 (12)
+            120 STORE_SUBSCR
+
+ 21         122 LOAD_CONST              26 (104)
+            124 LOAD_FAST                3 (val)
+            126 LOAD_CONST              27 (13)
+            128 STORE_SUBSCR
+
+ 22         130 LOAD_CONST              28 (106)
+            132 LOAD_FAST                3 (val)
+            134 LOAD_CONST              29 (14)
+            136 STORE_SUBSCR
+
+ 23         138 LOAD_CONST              30 (20)
+            140 LOAD_FAST                3 (val)
+            142 LOAD_CONST              31 (15)
+            144 STORE_SUBSCR
+
+ 24         146 LOAD_CONST              32 (108)
+            148 LOAD_FAST                3 (val)
+            150 LOAD_CONST              33 (16)
+            152 STORE_SUBSCR
+
+ 25         154 LOAD_CONST              34 (103)
+            156 LOAD_FAST                3 (val)
+            158 LOAD_CONST              35 (17)
+            160 STORE_SUBSCR
+
+ 26         162 LOAD_CONST              36 (107)
+            164 LOAD_FAST                3 (val)
+            166 LOAD_CONST              37 (18)
+            168 STORE_SUBSCR
+
+ 27         170 LOAD_CONST              38 (114)
+            172 LOAD_FAST                3 (val)
+            174 LOAD_CONST              39 (19)
+            176 STORE_SUBSCR
+
+ 28         178 LOAD_CONST              28 (106)
+            180 LOAD_FAST                3 (val)
+            182 LOAD_CONST              30 (20)
+            184 STORE_SUBSCR
+
+ 29         186 LOAD_CONST              40 (62)
+            188 LOAD_FAST                3 (val)
+            190 LOAD_CONST              41 (21)
+            192 STORE_SUBSCR
+
+ 30         194 LOAD_CONST              42 (122)
+            196 LOAD_FAST                3 (val)
+            198 LOAD_CONST              43 (22)
+            200 STORE_SUBSCR
+
+ 31         202 LOAD_CONST              44 (112)
+            204 LOAD_FAST                3 (val)
+            206 LOAD_CONST              45 (23)
+            208 STORE_SUBSCR
+
+ 32         210 LOAD_CONST              44 (112)
+            212 LOAD_FAST                3 (val)
+            214 LOAD_CONST              46 (24)
+            216 STORE_SUBSCR
+
+ 33         218 LOAD_CONST              17 (123)
+            220 LOAD_FAST                3 (val)
+            222 LOAD_CONST              47 (25)
+            224 STORE_SUBSCR
+
+ 34         226 LOAD_CONST              21 (121)
+            228 LOAD_FAST                3 (val)
+            230 LOAD_CONST              48 (26)
+            232 STORE_SUBSCR
+
+ 35         234 LOAD_CONST               4 (105)
+            236 LOAD_FAST                3 (val)
+            238 LOAD_CONST              49 (27)
+            240 STORE_SUBSCR
+
+ 36         242 LOAD_CONST              28 (106)
+            244 LOAD_FAST                3 (val)
+            246 LOAD_CONST              50 (28)
+            248 STORE_SUBSCR
+
+ 37         250 LOAD_CONST              51 (102)
+            252 LOAD_FAST                3 (val)
+            254 LOAD_CONST              52 (29)
+            256 STORE_SUBSCR
+
+ 38         258 LOAD_CONST              14 (116)
+            260 LOAD_FAST                3 (val)
+            262 LOAD_CONST              53 (30)
+            264 STORE_SUBSCR
+
+ 39         266 LOAD_CONST              54 (79)
+            268 LOAD_FAST                3 (val)
+            270 LOAD_CONST              55 (31)
+            272 STORE_SUBSCR
+
+ 40         274 LOAD_CONST              28 (106)
+            276 LOAD_FAST                3 (val)
+            278 LOAD_CONST              56 (32)
+            280 STORE_SUBSCR
+
+ 41         282 LOAD_CONST              42 (122)
+            284 LOAD_FAST                3 (val)
+            286 LOAD_CONST              57 (33)
+            288 STORE_SUBSCR
+
+ 43         290 LOAD_GLOBAL              0 (range)
+            292 LOAD_CONST              33 (16)
+            294 CALL_FUNCTION            1
+            296 GET_ITER
+        >>  298 FOR_ITER                13 (to 326)
+            300 STORE_FAST               4 (i)
+
+ 44         302 LOAD_FAST                1 (aharray)
+            304 LOAD_METHOD              1 (append)
+            306 LOAD_FAST                2 (x)
+            308 LOAD_CONST               7 (2)
+            310 BINARY_ADD
+            312 CALL_METHOD              1
+            314 POP_TOP
+
+ 45         316 LOAD_FAST                2 (x)
+            318 LOAD_CONST               7 (2)
+            320 INPLACE_ADD
+            322 STORE_FAST               2 (x)
+            324 JUMP_ABSOLUTE          149 (to 298)
+
+ 46     >>  326 BUILD_LIST               0
+            328 STORE_DEREF              0 (val_2)
+
+ 47         330 LOAD_GLOBAL              0 (range)
+            332 LOAD_GLOBAL              2 (len)
+            334 LOAD_FAST                3 (val)
+            336 CALL_FUNCTION            1
+            338 CALL_FUNCTION            1
+            340 GET_ITER
+        >>  342 FOR_ITER                19 (to 382)
+            344 STORE_FAST               4 (i)
+
+ 48         346 LOAD_DEREF               0 (val_2)
+            348 LOAD_METHOD              1 (append)
+            350 LOAD_FAST                3 (val)
+            352 LOAD_FAST                4 (i)
+            354 BINARY_SUBSCR
+            356 LOAD_CONST               7 (2)
+            358 BINARY_ADD
+            360 LOAD_CONST               5 (1)
+            362 BINARY_RSHIFT
+            364 LOAD_FAST                1 (aharray)
+            366 LOAD_FAST                4 (i)
+            368 LOAD_CONST              33 (16)
+            370 BINARY_MODULO
+            372 BINARY_SUBSCR
+            374 BINARY_XOR
+            376 CALL_METHOD              1
+            378 POP_TOP
+            380 JUMP_ABSOLUTE          171 (to 342)
+
+ 49     >>  382 LOAD_CONST              58 ('')
+            384 LOAD_METHOD              3 (join)
+            386 LOAD_CLOSURE             0 (val_2)
+            388 BUILD_TUPLE              1
+            390 LOAD_CONST              59 (<code object <genexpr> at 0x782a88ca4920>)
+            392 LOAD_CONST              60 ('encrypt_data.<locals>.<genexpr>')
+            394 MAKE_FUNCTION            8 (closure)
+            396 LOAD_GLOBAL              0 (range)
+            398 LOAD_GLOBAL              2 (len)
+            400 LOAD_DEREF               0 (val_2)
+            402 CALL_FUNCTION            1
+            404 CALL_FUNCTION            1
+            406 GET_ITER
+            408 CALL_FUNCTION            1
+            410 CALL_METHOD              1
+            412 STORE_FAST               5 (enc_flag)
+
+ 50         414 LOAD_GLOBAL              4 (sha256)
+            416 LOAD_FAST                5 (enc_flag)
+            418 LOAD_METHOD              5 (encode)
+            420 CALL_METHOD              0
+            422 CALL_FUNCTION            1
+            424 LOAD_METHOD              6 (hexdigest)
+            426 CALL_METHOD              0
+            428 LOAD_CONST              61 ('abd6177c760bed2e078e2ff804f5da70664f0df4d293e238d623231a6d7f6f49')
+            430 COMPARE_OP               2 (==)
+            432 POP_JUMP_IF_FALSE      223 (to 446)
+
+ 51         434 LOAD_GLOBAL              7 (print)
+            436 LOAD_CONST              62 ('Flag is correct')
+            438 CALL_FUNCTION            1
+            440 POP_TOP
+            442 LOAD_CONST               0 (None)
+            444 RETURN_VALUE
+
+ 53     >>  446 LOAD_GLOBAL              7 (print)
+            448 LOAD_CONST              63 ('Flag is incorrect')
+            450 CALL_FUNCTION            1
+            452 POP_TOP
+            454 LOAD_CONST               0 (None)
+            456 RETURN_VALUE
+
+Disassembly of <code object <genexpr> at 0x782a88ca4920>:
+              0 GEN_START                0
+
+ 49           2 LOAD_FAST                0 (.0)
+        >>    4 FOR_ITER                 9 (to 24)
+              6 STORE_FAST               1 (i)
+              8 LOAD_GLOBAL              0 (chr)
+             10 LOAD_DEREF               0 (val_2)
+             12 LOAD_FAST                1 (i)
+             14 BINARY_SUBSCR
+             16 CALL_FUNCTION            1
+             18 YIELD_VALUE
+             20 POP_TOP
+             22 JUMP_ABSOLUTE            2 (to 4)
+        >>   24 LOAD_CONST               0 (None)
+             26 RETURN_VALUE
